@@ -1,0 +1,9 @@
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/OAiPCourseWorkSemester1.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/edit_cache.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/rebuild_cache.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/list_install_components.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/local.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/install/strip.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/OAiPCourseWorkSemester1_autogen_timestamp_deps.dir
+/home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/CMakeFiles/OAiPCourseWorkSemester1_autogen.dir

@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_OAiPCourseWorkSemester1_FILE /home/birulya-zhenka/Documents/453501/OAiPCourseWorkSemester1/build/Desktop_Qt_6_9_0-Debug/OAiPCourseWorkSemester1)
+set(__QT_DEPLOY_TARGET_OAiPCourseWorkSemester1_TYPE EXECUTABLE)
