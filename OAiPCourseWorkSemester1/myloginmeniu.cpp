@@ -1,6 +1,8 @@
 #include "myloginmeniu.h"
 #include "ui_myloginmeniu.h"
 #include "mylayout.h"
+#include <qhostaddress.h>
+#include <qobject.h>
 
 MyLoginMeniu::MyLoginMeniu(QWidget *parent)
     : QDialog(parent)
@@ -70,13 +72,25 @@ void MyLoginMeniu::connectButtonClickedSlot() {
     if(lineEditName->text().size() == 0) {
         return;
     }
-    if(lineEditPort->text().toInt() < 1000 || lineEditPort->text().toInt() > 65535) {
+
+    name = lineEditName->text();
+    QString address_port = lineEditPort->text().trimmed();
+    QStringList parts = address_port.split(':');
+    if (parts.count() != 2) {
         return;
     }
 
-    name = lineEditName->text();
-    port = lineEditPort->text().toInt();
+    if (!hostAddress.setAddress(parts[0])) {
+        return;
+    }
+    if(parts[1].toInt() < 1000 || parts[1].toInt() > 65535) {
+        return;
+    }
+    port = parts[1].toInt();
+    
     emit successfulRegistration();
 }
 
-
+QHostAddress MyLoginMeniu::getIpAddress() {
+    return hostAddress;
+}

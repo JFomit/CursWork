@@ -2,6 +2,20 @@
 #include "ui_mainplayer.h"
 #include "mylayout.h"
 #include "writepuzzle.h"
+#include <qhostaddress.h>
+#include <QNetworkInterface>
+#include <qnetworkinterface.h>
+
+QHostAddress getHostAddress() {
+    const QHostAddress &localhost = QHostAddress(QHostAddress::LocalHost);
+    for (const QHostAddress &address: QNetworkInterface::allAddresses()) {
+        if (address.protocol() == QAbstractSocket::IPv4Protocol && address != localhost) {
+            return address;
+        }
+    }
+
+    return QHostAddress::LocalHost;
+}
 
 MainPlayer::MainPlayer(QWidget *parent)
     : QDialog(parent)
@@ -35,7 +49,7 @@ MainPlayer::MainPlayer(QWidget *parent)
     socket->connectToHost("127.0.0.1", myPort);
 
     labelShowPort = new QLabel(this);
-    labelShowPort->setText("Код для подключения: " + QString::number(myPort));
+    labelShowPort->setText(QString("Код для подключения: %1:%2").arg(getHostAddress().toString()).arg(myPort));
     labelShowPort->setStyleSheet("font-size: 24px; color: #555555; font-weight: bold;");
     labelShowPort->move(20, 10);
     labelShowPort->setMinimumHeight(40);

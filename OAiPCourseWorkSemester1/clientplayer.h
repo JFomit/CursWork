@@ -10,6 +10,7 @@
 #include <QPushButton>
 #include <QLineEdit>
 #include <QLabel>
+#include <qhostaddress.h>
 #include "myloginmeniu.h"
 
 namespace Ui {
@@ -33,6 +34,7 @@ private:
     QPushButton *enterButton;
     QTcpSocket *socket;
     int portForConnect;
+    QHostAddress address;
     quint32 messageSize;
     QString name;
     MyLoginMeniu *meniu;

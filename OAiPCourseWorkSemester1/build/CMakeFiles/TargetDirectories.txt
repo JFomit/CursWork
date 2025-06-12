@@ -1,0 +1,9 @@
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/OAiPCourseWorkSemester1.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/edit_cache.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/rebuild_cache.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/list_install_components.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/install.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/install/local.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/install/strip.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/OAiPCourseWorkSemester1_autogen_timestamp_deps.dir
+/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/CMakeFiles/OAiPCourseWorkSemester1_autogen.dir

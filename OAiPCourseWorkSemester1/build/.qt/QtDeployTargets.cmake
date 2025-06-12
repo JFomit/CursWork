@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_OAiPCourseWorkSemester1_FILE /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1)
+set(__QT_DEPLOY_TARGET_OAiPCourseWorkSemester1_TYPE EXECUTABLE)

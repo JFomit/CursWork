@@ -1,0 +1,74 @@
+[
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/OAiPCourseWorkSemester1_autogen/mocs_compilation.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/mocs_compilation.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/OAiPCourseWorkSemester1_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/main.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/main.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/main.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/main.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/mainwindow.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mainwindow.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mainwindow.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/mainwindow.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/mylayout.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mylayout.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mylayout.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/mylayout.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/myserver.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/myserver.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/myserver.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/myserver.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/mainplayer.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mainplayer.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/mainplayer.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/mainplayer.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/paintscene.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/paintscene.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/paintscene.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/paintscene.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/workwithpixmap.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/workwithpixmap.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/workwithpixmap.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/workwithpixmap.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/clientplayer.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/clientplayer.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/clientplayer.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/clientplayer.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/myloginmeniu.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/myloginmeniu.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/myloginmeniu.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/myloginmeniu.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/writepuzzle.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/writepuzzle.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/writepuzzle.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/writepuzzle.cpp.o"
+},
+{
+  "directory": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -I/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/OAiPCourseWorkSemester1_autogen/include -isystem /usr/include/qt6/QtCore -isystem /usr/include/qt6 -isystem /usr/lib/qt6/mkspecs/linux-g++ -isystem /usr/include/qt6/QtWidgets -isystem /usr/include/qt6/QtGui -isystem /usr/include/qt6/QtNetwork -g -fno-direct-access-external-data -o CMakeFiles/OAiPCourseWorkSemester1.dir/qrc_ImgFile.cpp.o -c /home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/qrc_ImgFile.cpp",
+  "file": "/home/jfomit/source/dev/qt/CursWork/OAiPCourseWorkSemester1/build/qrc_ImgFile.cpp",
+  "output": "CMakeFiles/OAiPCourseWorkSemester1.dir/qrc_ImgFile.cpp.o"
+}
+]

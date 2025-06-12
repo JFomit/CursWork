@@ -6,6 +6,7 @@
 #include <QLineEdit>
 #include <QPushButton>
 #include <QResizeEvent>
+#include <qhostaddress.h>
 
 namespace Ui {
 class MyLoginMeniu;
@@ -21,8 +22,9 @@ public:
 
     QString getName();
     int getPort();
+    QHostAddress getIpAddress();
 
-signals:
+  signals:
     void successfulRegistration();
 
 private slots:
@@ -31,6 +33,7 @@ private slots:
 private:
     QString name;
     int port;
+    QHostAddress hostAddress;
     Ui::MyLoginMeniu *ui;
     QLabel *labelName;
     QLineEdit *lineEditName;

@@ -171,7 +171,8 @@ void ClientPlayer::addMeniu() {
 void ClientPlayer::registration() {
     name = meniu->getName();
     portForConnect = meniu->getPort();
-    socket->connectToHost("127.0.0.1", portForConnect);
+    address = meniu->getIpAddress();
+    socket->connectToHost(address, portForConnect);
     delete meniu;
 }
 
