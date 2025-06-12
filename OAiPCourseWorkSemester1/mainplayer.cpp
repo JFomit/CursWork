@@ -4,6 +4,7 @@
 #include "writepuzzle.h"
 #include <qhostaddress.h>
 #include <QNetworkInterface>
+#include <qnamespace.h>
 #include <qnetworkinterface.h>
 
 QHostAddress getHostAddress() {
@@ -54,6 +55,7 @@ MainPlayer::MainPlayer(QWidget *parent)
     labelShowPort->move(20, 10);
     labelShowPort->setMinimumHeight(40);
     labelShowPort->setMinimumWidth(350);
+    labelShowPort->setTextInteractionFlags(labelShowPort->textInteractionFlags() | Qt::TextSelectableByMouse);
 
     chat = new QTextBrowser(this);
     chat->setMinimumHeight(450);
